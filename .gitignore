@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/
+
+# Fichiers médias
+#*.png
+#*.pdf
